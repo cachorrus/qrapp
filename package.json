@@ -58,8 +58,8 @@
       "phonegap-plugin-barcodescanner": {},
       "cordova-plugin-inappbrowser": {},
       "cordova-plugin-googlemaps": {
-        "API_KEY_FOR_ANDROID": "AIzaSyCBMMhi2i4aJzAw1TMQAX6uF-pwA30Msn0",
-        "API_KEY_FOR_IOS": "AIzaSyDEYcYciTDsfNi4jrIgI8ZctQSq7mq1FSc"
+        "API_KEY_FOR_ANDROID": "API_KEY_FOR_ANDROID",
+        "API_KEY_FOR_IOS": "API_KEY_FOR_ANDROID"
       },
       "cordova-plugin-whitelist": {},
       "cordova-plugin-device": {},
